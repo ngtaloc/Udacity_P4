@@ -1,0 +1,17 @@
+10:27:11.549 [main] INFO com.example.demo.controllers.UserController - Find user by username : Username
+10:27:11.662 [main] INFO com.example.demo.controllers.UserController - Find user by username : test
+10:27:11.663 [main] INFO com.example.demo.controllers.UserController - Find user by id : 1
+10:27:11.668 [main] INFO com.example.demo.controllers.UserController - Create user with username: test
+10:27:11.668 [main] INFO com.example.demo.controllers.UserController - User creation success with username : test
+10:27:11.669 [main] INFO com.example.demo.controllers.UserController - Create user with username: test
+10:27:11.669 [main] DEBUG com.example.demo.controllers.UserController - user creation Failed : Invalid password provided.
+10:27:34.604 [main] DEBUG com.example.demo.controllers.CartController - User not found with username : NotFound
+10:27:34.679 [main] INFO com.example.demo.controllers.CartController - Item removed from cart with id : 1
+10:27:34.680 [main] DEBUG com.example.demo.controllers.CartController - User not found with username : NotFound
+10:27:34.682 [main] INFO com.example.demo.controllers.CartController - Item added to cart successfully with item id : 1
+10:27:59.496 [main] INFO com.example.demo.controllers.ItemController - fetching all items
+10:27:59.530 [main] INFO com.example.demo.controllers.ItemController - fetching item with id : 1
+10:27:59.533 [main] INFO com.example.demo.controllers.ItemController - fetching item by name : invalid name
+10:28:15.144 [main] INFO com.example.demo.controllers.OrderController - Submit order success with id : null
+10:28:15.214 [main] DEBUG com.example.demo.controllers.OrderController - Submit order failed for user username : NOK
+10:28:15.215 [main] INFO com.example.demo.controllers.OrderController - Get order success with username : test
